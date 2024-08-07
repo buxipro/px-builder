@@ -78,7 +78,7 @@ Example extension code:
 
 ## Contributing
 
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on github repository.
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
