@@ -3,7 +3,8 @@
 Px Builder is AppInventor extension aix builder tool, It's support all command line tools like `Termux` and Supported all features of `java 8` also `lambda expressions`.
 
 To get started, place the all source files under the `src/` like `src/com/example/Example.java`, place the all helpers source file under the `src/com/example/helpers/Dropdown.java` more details is here [READ](https://docs.google.com/document/u/0/d/10kdXhSKlNBylE9mu2bago76jZVEj4R7H7pe0RKwoLAg/mobilebasic#heading=h.j2gi06bgd9sf).
-Any libraries `"(.jar)"` you need should be placed under
+Write Proguard rules in `proguard/proguard.cfg`.
+Any libraries `.jar` you need should be placed under
 `lib/deps/` like `lib/deps/example.jar`.
 
 ## Add Libraries and Permissions in source code
@@ -77,8 +78,8 @@ Example extension code:
 
 ## Contributing
 
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on github repository.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/buxipro/px-builder/blob/main/LICENSE) file for details.
